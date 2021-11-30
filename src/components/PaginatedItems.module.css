@@ -1,0 +1,14 @@
+ul.paginate {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+ul.paginate li {
+  background-color: #333;
+  margin-right: 5px;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  color: #fff;
+}
